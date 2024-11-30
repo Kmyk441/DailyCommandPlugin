@@ -1,0 +1,5 @@
+me\kmyk\dailycommand\Main.class
+me\kmyk\dailycommand\TimeUtils.class
+me\kmyk\dailycommand\ConfigManager.class
+me\kmyk\dailycommand\ScheduleManager.class
+me\kmyk\dailycommand\ScheduleCommandCommand.class

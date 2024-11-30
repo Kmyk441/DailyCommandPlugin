@@ -1,0 +1,6 @@
+name: DailyCommand
+version: '1.0'
+main: me.kmyk.dailycommand.Main
+api-version: '1.19'
+commands:
+  ustaw-komende:
